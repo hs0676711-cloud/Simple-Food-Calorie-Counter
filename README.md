@@ -15,7 +15,7 @@ This is a simple, interactive Python program that calculates the total calorie i
 - Standard Python libraries (no external dependencies)
 
 ## How to Use
-1. Run the `food_calorie_calculator.py` script in a Python environment.
+1. Run the https://github.com/hs0676711-cloud/Simple-Food-Calorie-Counter/blob/main/simple%20food%20calorie%20counter.ipynb script in a Python environment.
 2. The program will display the list of available food items with their calorie information.
 3. Enter the name of a food item from the list.
 4. Specify whether the amount is by weight (grams) or by unit/piece.
